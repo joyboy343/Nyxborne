@@ -160,6 +160,3 @@ nyxborne/
 > Alex doesn't know if there's a cure. Doesn't know if there's anything left worth curing.
 > But the Labyrinth holds answers — and monsters.
 
----
-
-*Built with ❤️ and Godot 4.3*
