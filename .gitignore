@@ -1,0 +1,19 @@
+# Godot 4 — gitignore
+# Generated files (safe to delete, Godot regenerates them)
+.godot/
+
+# Exported binaries
+*.exe
+*.apk
+*.aab
+*.ipa
+*.dmg
+*.x86_64
+*.arm64
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor metadata (optional — commit if you share editor layout with team)
+# *.uid        # keep: Godot 4 uses UIDs for stable references
